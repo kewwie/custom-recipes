@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+      " %¤",
+      " /%",
+      "/  "
+    ],
+    "key":
+    {
+      "¤":
+      {
+        "item": "minecraft:amethyst_shard"
+      }
+    },
+    "key":
+    {
+      "%":
+      {
+        "item": "minecraft:prismarine_shard"
+      }
+    },
+    "key":
+    {
+      "/":
+      {
+        "item": "minecraft:blaze_rod"
+      }
+    },
+    "result":
+    {
+      "item": "minecraft:trident",
+      "count": 1
+    }
+}
