@@ -9,5 +9,5 @@
 ![](assets/appdata.png)
 
 - Open the folder called .minecraft and look for the folder named saves.
-
-![](assets/saves.png)
+- In the saves folder you will find all of your world open the folder for the world you want to add the datapack to.
+- Open the folder datapacks and move the datapack zip file in to the folder. 
