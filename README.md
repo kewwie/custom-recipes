@@ -8,6 +8,6 @@
 
 ![](assets/appdata.png)
 
-- Look for a folder call .minecraft and open it
+- Open the folder called .minecraft and look for the folder named saves.
 
-![](assets/minecraft.png)
+![](assets/saves.png)
