@@ -2,26 +2,22 @@
     "type": "minecraft:crafting_shaped",
     "pattern":
     [
-      " %¤",
-      " /%",
+      " sx",
+      " /s",
       "/  "
     ],
     "key":
     {
-      "¤":
+      "x":
       {
         "item": "minecraft:amethyst_shard"
-      }
-    },
-    "key":
-    {
-      "%":
+      },
+      {
+      "s":
       {
         "item": "minecraft:prismarine_shard"
-      }
-    },
-    "key":
-    {
+      },
+      {
       "/":
       {
         "item": "minecraft:blaze_rod"
