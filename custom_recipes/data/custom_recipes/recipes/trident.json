@@ -6,18 +6,15 @@
       " /s",
       "/  "
     ],
-    "key":
-    {
+    "key": {
       "x":
       {
         "item": "minecraft:amethyst_shard"
       },
-      {
       "s":
       {
         "item": "minecraft:prismarine_shard"
       },
-      {
       "/":
       {
         "item": "minecraft:blaze_rod"
